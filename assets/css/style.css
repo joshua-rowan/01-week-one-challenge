@@ -1,26 +1,41 @@
 * {
+    /* Removes padding and margin from the elements */
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
 body {
+    /* Sets the body's background color*/
     background-color: #d9dcd6;
+    color:#ffffff
 }
 
 header {
+    /*Sets padding, font-family, and colors for the header */
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
-    color: #ffffff;
+}
+
+footer {
+    color: black;
 }
 
 h1 {
+    /* allows heading and links to appear in same line on header */
     display: inline-block;
     font-size: 48px;
 }
 
+h3 {
+    /* used in benefits section */
+    margin-bottom: 10px;
+    text-align: center;
+}
+
 ul {
+    /* sets up the links on top right of page */
     list-style-type: none;
     padding-top: 15px;
     margin-right: 20px;
@@ -41,9 +56,11 @@ a {
 
 p {
     font-size: 16px;
+    margin-bottom: 32px
 }
 
 .content {
+    /* Main Content to be displayed on left side of page */
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -51,6 +68,7 @@ p {
 }
 
 .benefits {
+    /* Benefits of Services displayed on right side of page */
     margin: 20px;
     padding:20px;
     clear: both;
@@ -61,24 +79,8 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead,
-.benefit-brand,
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-
-.benefit-lead h3,
-.benefit-brand h3, 
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img, 
-.benefit-brand img,
-.benefit-cost img {
+.benefits img {
+    /* one setting for all images in benefits section */
     display: block;
     margin: 10px auto;
     max-width: 150px;
