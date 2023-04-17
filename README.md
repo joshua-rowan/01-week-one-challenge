@@ -9,6 +9,7 @@ https://joshua-rowan.github.io/01-week-one-challenge/
 
 ## Screenshot
 
+![joshua-rowan github io_01-week-one-challenge_](https://user-images.githubusercontent.com/127271690/232568291-e9e31f05-2323-4605-ba5e-d702ff8e8cc0.png)
 
 ## Scenario
 
