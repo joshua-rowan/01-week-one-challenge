@@ -4,6 +4,12 @@
 
 This Challenge Project is an on-the-job ticket. The code seen in this repo has been refactored to be more reader friendly, accessible, sustainable, and operate more efficiently.
 
+## Link
+https://joshua-rowan.github.io/01-week-one-challenge/
+
+## Screenshot
+
+
 ## Scenario
 
 A marketing agency
