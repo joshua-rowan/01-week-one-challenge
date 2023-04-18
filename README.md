@@ -8,7 +8,7 @@ This Challenge Project is an on-the-job ticket. The code seen in this repo has b
 https://joshua-rowan.github.io/01-week-one-challenge/
 
 ## Screenshot
-
+![Alt image of final website](assets/images/joshua-rowan.github.io_01-week-one-challenge_%20A.png)
 
 ## Scenario
 
