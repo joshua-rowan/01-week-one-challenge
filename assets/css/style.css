@@ -20,7 +20,6 @@ p {
 header {
     /*Sets padding, font-family, and colors for the header */
     padding: 20px;
-    background-color: #2a607c;
 }
 
 
@@ -72,24 +71,19 @@ a {
     text-decoration: none;
 }
 
-main {}
-
 .content {
     /* Main Content to be displayed on left side of page */
     width: 75%;
     display: inline-block;
     margin-left: 20px;
-    margin-top 25px;
+    margin-top: 25px;
     }
 
-.search-engine-optimization,
-.online-reputation-management,
-.social-media-marketing {
+.content-article {
     /* consolidated boxes to single setting */
     margin-top: 20px;
     padding: 50px;
     height: 300px;
-    background-color: #0072bb;
 }
 
 /* consolidated content images to single setting */
@@ -105,7 +99,6 @@ main {}
     float: right;
     width: 20%;
     height: 100%;
-    background-color: #2589bd;
 }
 
 .benefits img {
@@ -131,4 +124,8 @@ h1 .seo {
 
 .footer h2 {
     font-size: 20px;
+}
+
+.blue-background {
+    background-color: #2a607c;
 }
